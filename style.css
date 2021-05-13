@@ -32,7 +32,7 @@ body {
 .container {
     background-color: var(--dark-cyan);
     max-width: 1440px;
-    height: 100vh;
+    height: 100%;
     margin: 0 auto;
 
     display: flex;
